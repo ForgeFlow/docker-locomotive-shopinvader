@@ -104,9 +104,9 @@ GIT
       yajl-ruby (~> 1.3.1)
 
 GIT
-  remote: https://github.com/shopinvader/locomotive-shopinvader.git
-  revision: 8f11385d7b5cf68ccce6895bf3d1710dd2f02ed7
-  branch: v4.0.x
+  remote: https://github.com/forgeflow/locomotive-shopinvader.git
+  revision: 89f02233b248ccd5acb540f3a083114f403a31d3
+  branch: 14.0-add-website_unique_key
   specs:
     shop_invader (0.1.0)
       algoliasearch (~> 1.13.0)
